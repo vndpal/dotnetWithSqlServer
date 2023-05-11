@@ -1,2 +1,2 @@
 # dotnetWithSqlServer
-This is a sample dotnet app which will interact with SQL server
+This is an dotnet application that demostrate how we can connect to SQL Server from an dotnet framework application
